@@ -1,0 +1,44 @@
+class Solution {
+public:
+     vector<string> ans;
+    void type(int ind,vector<string> opt,vector<int> digit,string s){
+        if(ind<0){
+            ans.push_back(s);
+            return ;
+
+        }
+
+        for(int i=0;i<opt[digit[ind]].size();i++){
+            type(ind-1,opt,digit,s+opt[digit[ind]][i]);
+        }
+    }
+    vector<string> letterCombinations(string digits) {
+        if(digits.empty()){
+            return ans;
+        }
+        vector<string> opt={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        int x=0;
+
+        for (char c : digits) {
+        
+            if (c >= '0' && c <= '9') {
+                x = x * 10 + (c - '0');
+            }
+        
+        }
+
+
+        vector<int> digit;
+        while(x>0){
+            digit.push_back(x%10);
+            x=x/10;
+        }
+        string s="";
+        type(digit.size()-1,opt,digit,s);
+
+        return ans;
+        
+
+        
+    }
+};
