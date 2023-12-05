@@ -8,3 +8,9 @@ LeetCode-Toeplitz Matrix
 
 Day-03(3.12.2023)
 LeetCode-Reverse Integer
+
+Day-04(4.12.2023)
+LeetCode-Letter Combination of a Phone Number
+
+Day-05(5.12.2023)
+LeetCode-Remove Duplicates from Sorted Array
