@@ -14,3 +14,6 @@ LeetCode-Letter Combination of a Phone Number
 
 Day-05(5.12.2023)
 LeetCode-Remove Duplicates from Sorted Array
+
+Day-06(6.12.2023)
+LeetCode-Valid Parentheses
