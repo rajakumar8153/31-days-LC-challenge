@@ -17,3 +17,6 @@ LeetCode-Remove Duplicates from Sorted Array
 
 Day-06(6.12.2023)
 LeetCode-Valid Parentheses
+
+Day-07(7.12.2023)
+LeetCode-Roman to Integer
