@@ -26,3 +26,6 @@ LeetCode-Permutations
 
 Day-09(9.12.2023)
 LeetCode-Happy Number
+
+Day-10(10.12.2023)
+LeetCode-Plus One
