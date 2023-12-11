@@ -29,3 +29,6 @@ LeetCode-Happy Number
 
 Day-10(10.12.2023)
 LeetCode-Plus One
+
+Day-11(11.12.2023)
+LeetCode-Remove Element
