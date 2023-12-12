@@ -32,3 +32,6 @@ LeetCode-Plus One
 
 Day-11(11.12.2023)
 LeetCode-Remove Element
+
+Day-12(12.12.2023)
+LeetCode-Generate Parentheses
