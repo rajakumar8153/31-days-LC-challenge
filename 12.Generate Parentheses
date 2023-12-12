@@ -1,0 +1,52 @@
+class Solution {
+public:
+    void solve(string m, int open, int close, vector<string> &ans){
+        if(open == 0 && close == 0){
+
+            ans.push_back(m);
+            return;
+            
+        }
+
+        if(open == close){
+   string m1 = m;
+            m1.push_back('(');
+            solve(m1, open-1, close, ans);
+        }
+        else if(open == 0){
+   string m1 = m;
+            m1.push_back(')');
+            solve(m1, open, close-1, ans);
+        }
+        else if(close == 0){
+
+            string m1 = m;
+            m1.push_back('(');
+            solve(m1, open-1, close, ans);
+        }
+        else{
+
+
+            string m1 = m;
+            string m2 = m;
+
+
+            m1.push_back('(');
+            m2.push_back(')');
+            solve(m1, open-1, close, ans);
+            solve(m2, open, close-1, ans);
+        }
+    }
+    vector<string> generateParenthesis(int n) {
+        int open = n;
+        int close = n;
+
+
+        vector<string> ans;
+        string m = "";
+        solve(m, open, close, ans);
+        return ans;
+
+
+    }
+};
