@@ -35,3 +35,6 @@ LeetCode-Remove Element
 
 Day-12(12.12.2023)
 LeetCode-Generate Parentheses
+
+Day-13(13.12.2023)
+LeetCode-String to Integer (atoi)
