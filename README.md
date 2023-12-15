@@ -41,3 +41,6 @@ LeetCode-String to Integer (atoi)
 
 Day-14(14.12.2023)
 LeetCode-Find the Index of the First Occurrence in a String
+
+Day-15(15.12.2023)
+LeetCode-Longest Alternating Subarray
