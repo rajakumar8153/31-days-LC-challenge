@@ -38,3 +38,6 @@ LeetCode-Generate Parentheses
 
 Day-13(13.12.2023)
 LeetCode-String to Integer (atoi)
+
+Day-14(14.12.2023)
+LeetCode-Find the Index of the First Occurrence in a String
