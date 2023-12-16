@@ -44,3 +44,6 @@ LeetCode-Find the Index of the First Occurrence in a String
 
 Day-15(15.12.2023)
 LeetCode-Longest Alternating Subarray
+
+Day-16(16.12.2023)
+LeetCode-Single Number
