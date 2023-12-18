@@ -47,3 +47,9 @@ LeetCode-Longest Alternating Subarray
 
 Day-16(16.12.2023)
 LeetCode-Single Number
+
+Day-17(17.12.2023)
+LeetCode-Sqrt(x)
+
+Day-18(18.12.2023)
+LeetCode-
