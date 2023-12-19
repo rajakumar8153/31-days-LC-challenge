@@ -53,3 +53,6 @@ LeetCode-Sqrt(x)
 
 Day-18(18.12.2023)
 LeetCode-Sales Person
+
+Day-19(19.12.2023)
+LeetCode-Squares of a Sorted Array
