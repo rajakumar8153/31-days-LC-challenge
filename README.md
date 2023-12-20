@@ -56,3 +56,6 @@ LeetCode-Sales Person
 
 Day-19(19.12.2023)
 LeetCode-Squares of a Sorted Array
+
+Day-20(20.12.2023)
+LeetCode-Find Common Characters
