@@ -59,3 +59,6 @@ LeetCode-Squares of a Sorted Array
 
 Day-20(20.12.2023)
 LeetCode-Find Common Characters
+
+Day-21(21.12.2023)
+LeetCode-Baseball Game
