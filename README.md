@@ -62,3 +62,6 @@ LeetCode-Find Common Characters
 
 Day-21(21.12.2023)
 LeetCode-Baseball Game
+
+Day-22(22.12.2023)
+LeetCode-Number of Senior Citizens
