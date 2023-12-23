@@ -65,3 +65,6 @@ LeetCode-Baseball Game
 
 Day-22(22.12.2023)
 LeetCode-Number of Senior Citizens
+
+Day-23(23.12.2023)
+LeetCode-Employees Earning More Than Their Managers
