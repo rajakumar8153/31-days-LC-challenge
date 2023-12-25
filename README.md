@@ -71,3 +71,6 @@ LeetCode-Employees Earning More Than Their Managers
 
 Day-24(24.12.2023)
 LeetCode-Number Complement
+
+Day-25(25.12.2023)
+LeetCode-Majority Element
