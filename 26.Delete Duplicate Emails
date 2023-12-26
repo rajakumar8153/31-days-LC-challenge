@@ -1,0 +1,3 @@
+delete n 
+from person n,person m
+where n.email=m.email and n.id>m.id;
