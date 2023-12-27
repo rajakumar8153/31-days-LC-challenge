@@ -74,3 +74,9 @@ LeetCode-Number Complement
 
 Day-25(25.12.2023)
 LeetCode-Majority Element
+
+Day-26(26.12.2023)
+LeetCode-Delete Duplicate Emails
+
+Day-27(27.12.2023)
+LeetCode-Reverse String
