@@ -80,3 +80,6 @@ LeetCode-Delete Duplicate Emails
 
 Day-27(27.12.2023)
 LeetCode-Reverse String
+
+Day-28(28.12.2023)
+LeetCode-Big Countries
